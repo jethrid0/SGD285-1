@@ -50,9 +50,9 @@ public class SGD285_1
            new UserQuote("Joseph Flanagan", "'Do. Or do not. There is no try.' -Yoda"), // I love this quote//
            new UserQuote("Jennifer Baldwin", "I am no bird; and no net ensnares me; I am a free human being with an independent will. - Charlotte Bronte"),
            new UserQuote("Mayra Orlando", "Problems are not stop signs, they are guidelines.- Robert H. Schiuller"),
-           new UserQuote("Forrest Wilkerson", "You miss 100% of the shots you never take- Wayne Gretzky"),
+           new UserQuote("Forrest Wilkerson", "You miss 100% of the shots you never take- Wayne Gretzky"), /* I live by this quote everyday */
            new UserQuote("Hannah Sprinkle", "There are no happy endings, endings are the saddest part. So just give me a happy middle and a very happy start. -Shel Silverstein"),
-           new UserQuote("Evy Kollstrand", "You never know until you know, you know"),
+           new UserQuote("Evy Kollstrand", "You never know until you know, you know"), /* This is so true */
            new UserQuote("Keivon Arooji", "Education is what remains after one has forgotten what one has learned in school. -Albert Einstein"),
            new UserQuote("Darius Samani", "If I had nine hours to chop down a tree, I’d spend the first six sharpening my axe.” – Abraham Lincoln"),
            new UserQuote("Samuel Hinkelman", "If you never stop learning you will never stop seeing the possibilities. -Bill Gates"), /* Brilliant quote! - Aliyah Day */
